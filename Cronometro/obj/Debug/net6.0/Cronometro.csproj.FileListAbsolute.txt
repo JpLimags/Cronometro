@@ -1,0 +1,15 @@
+/home/joaopedro/RiderProjects/Cronometro/Cronometro/bin/Debug/net6.0/Cronometro
+/home/joaopedro/RiderProjects/Cronometro/Cronometro/bin/Debug/net6.0/Cronometro.deps.json
+/home/joaopedro/RiderProjects/Cronometro/Cronometro/bin/Debug/net6.0/Cronometro.runtimeconfig.json
+/home/joaopedro/RiderProjects/Cronometro/Cronometro/bin/Debug/net6.0/Cronometro.dll
+/home/joaopedro/RiderProjects/Cronometro/Cronometro/bin/Debug/net6.0/Cronometro.pdb
+/home/joaopedro/RiderProjects/Cronometro/Cronometro/obj/Debug/net6.0/Cronometro.csproj.AssemblyReference.cache
+/home/joaopedro/RiderProjects/Cronometro/Cronometro/obj/Debug/net6.0/Cronometro.GeneratedMSBuildEditorConfig.editorconfig
+/home/joaopedro/RiderProjects/Cronometro/Cronometro/obj/Debug/net6.0/Cronometro.AssemblyInfoInputs.cache
+/home/joaopedro/RiderProjects/Cronometro/Cronometro/obj/Debug/net6.0/Cronometro.AssemblyInfo.cs
+/home/joaopedro/RiderProjects/Cronometro/Cronometro/obj/Debug/net6.0/Cronometro.csproj.CoreCompileInputs.cache
+/home/joaopedro/RiderProjects/Cronometro/Cronometro/obj/Debug/net6.0/Cronometro.dll
+/home/joaopedro/RiderProjects/Cronometro/Cronometro/obj/Debug/net6.0/refint/Cronometro.dll
+/home/joaopedro/RiderProjects/Cronometro/Cronometro/obj/Debug/net6.0/Cronometro.pdb
+/home/joaopedro/RiderProjects/Cronometro/Cronometro/obj/Debug/net6.0/Cronometro.genruntimeconfig.cache
+/home/joaopedro/RiderProjects/Cronometro/Cronometro/obj/Debug/net6.0/ref/Cronometro.dll
