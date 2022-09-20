@@ -22,5 +22,7 @@ public class Cronometro
             Console.WriteLine(currentTime);
             Thread.Sleep(1000);
         }
+
+		
     }
 }
